@@ -1,11 +1,46 @@
-<div style=width:80% height: 300px;>
-  <canvas id="myChart"></canvas>
+<head>
+
+<script src="https://cdn.plot.ly/plotly-2.27.0.min.js" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="js/bubble.js" type="text/javascript"></script>
+
+
+</head>
+
+<div class="div-1">
+
+<h4>Motivation</h4>
+
+<h4>Hypothesis</h4>
+
+<h4>Objective</h4>
+
+<h4>Tasks</h4>
+
+<h4>Findings</h4>
+
+<h4>Conclusion</h4>
+
 </div>
 
 
-<div class="myDiv">
-  <h2>References</h2>
+<div class="div-1" id="tester" style="width:600px;height:250px;"></div>
+<script src="js/plotly.js" type="text/javascript"></script>
 
+
+
+
+<div class="div-1">
+  <canvas id="myChart"></canvas>
+</div>
+
+<script src="js/chartjs.js" type="text/javascript"></script>
+
+<div class="div-1">
+<h4>References for data</h4>
 
 <ol>
 <li><a href="https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate">https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate</a>
@@ -16,53 +51,35 @@
 </li>
 <li><a href="https://en.wikipedia.org/wiki/List_of_countries_by_number_of_households">https://en.wikipedia.org/wiki/List_of_countries_by_number_of_households</a>
 </li>
+</ol>
 
+<h4>Reference for analysis</h4>
+
+<ol>
+  <li>
+    Beautiful Soup - a Python package for parsing HTML and XML documents <a href="https://code.launchpad.net/beautifulsoup/">https://code.launchpad.net/beautifulsoup/</a>
+  </li>
+
+<li>
+    Chart.JS - simple yet flexible JavaScript charting library for the modern web <a href="https://www.chartjs.org/">https://www.chartjs.org/</a>
+</li>
+
+<li>
+  Leaflet - an open-source JavaScript library for mobile-friendly interactive maps <a href="https://leafletjs.com/index.html">https://leafletjs.com/index.html</a>
+</li>
+
+<li>
+  Plotly - JavaScript open source graphing library <a href="https://plotly.com/javascript/">https://plotly.com/javascript/</a>
+</li>
+
+<li>
+  Tabulator - interactive JavaScript tables and data grids <a href="https://tabulator.info/">https://tabulator.info/</a>
+</li>
 
 </ol>
 
+
+GitHub Repo <a href="https://github.com/jesnyder/grabstein"> https://github.com/jesnyder/grabstein</a> 
+Project Webpage <a href="https://jesnyder.github.io/grabstein/"> https://jesnyder.github.io/grabstein/</a>
+
 </div>
-
-
-
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="js/bubble.js" type="text/javascript"></script>
-
-<script>
-
-console.log(bubble);
-
-  const data = bubble;
-
-  const config = {
-    type: 'bubble',
-    data: data,
-    options: {
-    responsive: true,
-    plugins: {
-      title: {
-        display: true,
-        text: 'Suicide Rate Coorelated to % of 1 Member Households'
-      }
-    },
-    scales: {
-      x: {
-        display: true,
-        type: 'logarithmic',
-        labelString: '% of 1 Member Households'
-      },
-      y: {
-        display: true,
-        type: 'logarithmic',
-        labelString: 'Suicide Rate'
-
-      }
-    }
-  },
-  };
-
- const ctx = document.getElementById('myChart');
-
-  new Chart(ctx, config);
-
-</script>

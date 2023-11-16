@@ -3612,14 +3612,14 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Israel",
-            "Minimum wage": "₪5,300 ILS (US$1641) per month; or ₪29.12 ILS (US$9.02) per hour.[118][119]",
-            "Annual": "19690.0",
-            "Annual.1": "14389.0",
+            "Minimum wage": "₪5,571.75 ILS (US$1725) per month; or ₪30.61 ILS (US$9.48) per hour.[118]",
+            "Annual": "20700.0",
+            "Annual.1": "15127.0",
             "Workweek (hours)[4]": "42",
-            "Hourly": "9.02",
-            "Hourly.1": "6.59",
-            "Percent of GDP per capita[5]": "38.6%",
-            "Effective per": "1 April 2018"
+            "Hourly": "9.48",
+            "Hourly.1": "6.93",
+            "Percent of GDP per capita[5]": "40.6%",
+            "Effective per": "1 April 2023"
         },
         "list_of_countries_by_number_of_households": {
             "Country": "Israel",
@@ -3815,7 +3815,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Japan",
-            "Minimum wage": "Ranges from ¥893–¥1,113 (US$8.14–US$10.14) per hour; varies on a prefectural and industry basis.[121][122]",
+            "Minimum wage": "Ranges from ¥893–¥1,113 (US$8.14–US$10.14) per hour; varies on a prefectural and industry basis.[120][121]",
             "Annual": "16924.0",
             "Annual.1": "17335.0",
             "Workweek (hours)[4]": "40",
@@ -3876,7 +3876,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Kazakhstan",
-            "Minimum wage": "₸70,000 (US$153) per month is the minimum wage in Kazakhstan.[125]",
+            "Minimum wage": "₸70,000 (US$153) per month is the minimum wage in Kazakhstan.[124]",
             "Annual": "1972.0",
             "Annual.1": "7394.0",
             "Workweek (hours)[4]": "40",
@@ -3937,7 +3937,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Kenya",
-            "Minimum wage": "Set by the government by location, age and skill level; the lowest agricultural minimum wage for unskilled employees was KSh. 6,415.55/ (US$52.45) = per month, KSh. 269/40 (US$2.20) per day, excluding housing allowance.[10][18][126][127]",
+            "Minimum wage": "Set by the government by location, age and skill level; the lowest agricultural minimum wage for unskilled employees was KSh. 6,415.55/ (US$52.45) = per month, KSh. 269/40 (US$2.20) per day, excluding housing allowance.[10][18][125][126]",
             "Annual": "702.0",
             "Annual.1": "1656.0",
             "Workweek (hours)[4]": "52",
@@ -3993,7 +3993,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Kosovo",
-            "Minimum wage": "€170 (US$224) per month for workers between 35 and 65 years of age; €130 (US$150) for workers under 35 years of age.[10][132]",
+            "Minimum wage": "€170 (US$224) per month for workers between 35 and 65 years of age; €130 (US$150) for workers under 35 years of age.[10][131]",
             "Annual": "2413.0",
             "Annual.1": "5667.0",
             "Workweek (hours)[4]": "40",
@@ -4047,7 +4047,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Kuwait",
-            "Minimum wage": "KD 60 (US$216) per month.[10][133]",
+            "Minimum wage": "KD 60 (US$216) per month.[10][132]",
             "Annual": "2400.0",
             "Annual.1": "3600.0",
             "Workweek (hours)[4]": "48",
@@ -4107,7 +4107,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Kyrgyzstan",
-            "Minimum wage": "1,140 som (US$14) per month, nominally; used for administrative purpose.[10][134][135][136]",
+            "Minimum wage": "1,140 som (US$14) per month, nominally; used for administrative purpose.[10][133][134][135]",
             "Annual": "162.0",
             "Annual.1": "661.0",
             "Workweek (hours)[4]": "40",
@@ -4168,7 +4168,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Laos",
-            "Minimum wage": "₭800,000 (US$100) per month; additionally, employers were required to pay a ₭30,000 (US$3.74) meal allowance per day. The minimum wage for civil servants and state enterprise employees was last increased to ₭1,400,000 (US$170) per month.[10][137][138]",
+            "Minimum wage": "₭800,000 (US$100) per month; additionally, employers were required to pay a ₭30,000 (US$3.74) meal allowance per day. The minimum wage for civil servants and state enterprise employees was last increased to ₭1,400,000 (US$170) per month.[10][136][137]",
             "Annual": "1732.0",
             "Annual.1": "5180.0",
             "Workweek (hours)[4]": "48",
@@ -4247,7 +4247,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Latvia",
-            "Minimum wage": "€620 (US$733) per month.[139]",
+            "Minimum wage": "€620 (US$733) per month.[138]",
             "Annual": "8799.0",
             "Annual.1": "13053.0",
             "Workweek (hours)[4]": "40",
@@ -4365,7 +4365,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Lithuania",
-            "Minimum wage": "€924(US$1092) per month, €5.65 (US$6.68) per hour for unskilled labor.[144]",
+            "Minimum wage": "€924(US$1092) per month, €5.65 (US$6.68) per hour for unskilled labor.[143]",
             "Annual": "13899.0",
             "Annual.1": "23043.0",
             "Workweek (hours)[4]": "40",
@@ -4444,7 +4444,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Luxembourg",
-            "Minimum wage": "€2,508.24 (US$2966) per month, €14.50 (US$17.15) per hour for unskilled workers over 18; increased by 20% for a skilled employee; decreased by 20% to 25% in the case of an adolescent worker.[145][37][146][147]",
+            "Minimum wage": "€2,508.24 (US$2966) per month, €14.50 (US$17.15) per hour for unskilled workers over 18; increased by 20% for a skilled employee; decreased by 20% to 25% in the case of an adolescent worker.[144][37][145][146]",
             "Annual": "32103.0",
             "Annual.1": "26875.0",
             "Workweek (hours)[4]": "40",
@@ -4520,7 +4520,7 @@
             "Minimum wage": "Ar 133,013.4 (US$30.82) per month, Ar 767.4. per hour for non-agricultural workers; Ar 134,920 (US$31.26) per month, 674.60 Ar. per hour for agricultural workers.[10][18]",
             "Annual": "376.0",
             "Annual.1": "1601.0",
-            "Workweek (hours)[4]": "41[149]",
+            "Workweek (hours)[4]": "41[148]",
             "Hourly": "0.18",
             "Hourly.1": "0.75",
             "Percent of GDP per capita[5]": "106.3%",
@@ -4578,7 +4578,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Malaysia",
-            "Minimum wage": "RM 1,500 (US$336) per month.[151]",
+            "Minimum wage": "RM 1,500 (US$336) per month.[150]",
             "Annual": "4348.0",
             "Annual.1": "10843.0",
             "Workweek (hours)[4]": "45",
@@ -4700,7 +4700,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Malta",
-            "Minimum wage": "€792.3 (US$767) per month.[153][154]",
+            "Minimum wage": "€792.3 (US$767) per month.[152][153]",
             "Annual": "11245.0",
             "Annual.1": "14406.0",
             "Workweek (hours)[4]": "40",
@@ -4779,7 +4779,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Mexico",
-            "Minimum wage": "Mex$207.44 (US$10.23) per day; Mex$312.41 (US$15.41) per day on the Free Zone of the Northern Border. Day off is paid according to Mexican labor legislation so the total amount of paid hours is 56 (Art. 69) [161]",
+            "Minimum wage": "Mex$207.44 (US$10.23) per day; Mex$312.41 (US$15.41) per day on the Free Zone of the Northern Border. Day off is paid according to Mexican labor legislation so the total amount of paid hours is 56 (Art. 69) [160]",
             "Annual": "3104.0",
             "Annual.1": "6224.0",
             "Workweek (hours)[4]": "48",
@@ -4851,7 +4851,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Moldova",
-            "Minimum wage": "4,000 lei (US$222) per month in the private sector.[162]",
+            "Minimum wage": "4,000 lei (US$222) per month in the private sector.[161]",
             "Annual": "2715.0",
             "Annual.1": "6997.0",
             "Workweek (hours)[4]": "40",
@@ -4912,7 +4912,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Mongolia",
-            "Minimum wage": "₮550,000 (US$145) per month.[165]",
+            "Minimum wage": "₮550,000 (US$145) per month.[164]",
             "Annual": "2316.0",
             "Annual.1": "7946.0",
             "Workweek (hours)[4]": "40",
@@ -4984,7 +4984,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Montenegro",
-            "Minimum wage": "€450 (US$511) netto per month.[10][166]",
+            "Minimum wage": "€450 (US$511) netto per month.[10][165]",
             "Annual": "6387.0",
             "Annual.1": "12558.0",
             "Workweek (hours)[4]": "40",
@@ -5045,7 +5045,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Myanmar",
-            "Minimum wage": "Ks 3,600/- per day, Ks 450/- per hour.[10][171][172]",
+            "Minimum wage": "Ks 3,600/- per day, Ks 450/- per hour.[10][170][171]",
             "Annual": "691.0",
             "Annual.1": "3011.0",
             "Workweek (hours)[4]": "44",
@@ -5106,7 +5106,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Nepal",
-            "Minimum wage": "NRs. 15,000/- (US$126.98) per month[174]",
+            "Minimum wage": "NRs. 15,000/- (US$126.98) per month[173]",
             "Annual": "1524.0",
             "Annual.1": "4913.0",
             "Workweek (hours)[4]": "48",
@@ -5185,10 +5185,10 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Netherlands",
-            "Minimum wage": "€1,934.40 (US$2288) per month, and €11.16 (US$13.2) per hour for persons 21 and older; between 30–80% (as low as €3.35 per hour) of this amount for persons aged 15–20.[175] An additional holiday allowance of 8% of the annual wage is paid in May or June, prorated for the time worked in the year.",
+            "Minimum wage": "€1,934.40 (US$2288) per month, and €11.16 (US$13.2) per hour for persons 21 and older; between 30–80% (as low as €3.35 per hour) of this amount for persons aged 15–20.[174] An additional holiday allowance of 8% of the annual wage is paid in May or June, prorated for the time worked in the year.",
             "Annual": "24925.0",
             "Annual.1": "23679.0",
-            "Workweek (hours)[4]": "40[176]",
+            "Workweek (hours)[4]": "40[175]",
             "Hourly": "11.98",
             "Hourly.1": "11.38",
             "Percent of GDP per capita[5]": "46.9%",
@@ -5291,7 +5291,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "New Zealand",
-            "Minimum wage": "$NZ 22.70 (US$14.23) per hour for workers 18 years old or older, and $NZ 18.16 (US$11.38) per hour for those aged 16 or 17 or in training; there is no statutory minimum wage for employees who are aged 15 years or under.[177]",
+            "Minimum wage": "$NZ 22.70 (US$14.23) per hour for workers 18 years old or older, and $NZ 18.16 (US$11.38) per hour for those aged 16 or 17 or in training; there is no statutory minimum wage for employees who are aged 15 years or under.[176]",
             "Annual": "33487.0",
             "Annual.1": "28790.0",
             "Workweek (hours)[4]": "40",
@@ -5424,7 +5424,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Nigeria",
-            "Minimum wage": "₦30,000 per month (following the recent devaluation of the naira has fallen to US$76.92, or US$66.6 using the parallel market rate).[178][179]",
+            "Minimum wage": "₦30,000 per month (following the recent devaluation of the naira has fallen to US$76.92, or US$66.6 using the parallel market rate).[177][178]",
             "Annual": "901.0",
             "Annual.1": "2911.0",
             "Workweek (hours)[4]": "40",
@@ -5475,7 +5475,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "North Macedonia",
-            "Minimum wage": "DEN 22,146, (US$406) gross per month.[180][181][182]",
+            "Minimum wage": "DEN 22,146, (US$406) gross per month.[179][180][181]",
             "Annual": "2418.0",
             "Annual.1": "5488.0",
             "Workweek (hours)[4]": "40",
@@ -5675,7 +5675,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Panama",
-            "Minimum wage": "B/.1.53 to B/.4.45 (US$1.53 – US$4.45) per hour, depending on region and sector. Food and the use of housing facilities were considered part of the salary for some workers, such as domestic and agricultural workers. Salaries for domestic workers ranged from B/.250 to B/.275 (US$250-US$275) per month. The agricultural and construction sectors received the lowest and highest minimum wages, respectively.[10][190][191]",
+            "Minimum wage": "B/.1.53 to B/.4.45 (US$1.53 – US$4.45) per hour, depending on region and sector. Food and the use of housing facilities were considered part of the salary for some workers, such as domestic and agricultural workers. Salaries for domestic workers ranged from B/.250 to B/.275 (US$250-US$275) per month. The agricultural and construction sectors received the lowest and highest minimum wages, respectively.[10][189][190]",
             "Annual": "3819.0",
             "Annual.1": "6473.0",
             "Workweek (hours)[4]": "48",
@@ -5747,7 +5747,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Peru",
-            "Minimum wage": "S/.1,025 (US$244) per month.[196]",
+            "Minimum wage": "S/.1,025 (US$244) per month.[195]",
             "Annual": "3170.0",
             "Annual.1": "7069.0",
             "Workweek (hours)[4]": "48",
@@ -5819,10 +5819,10 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Philippines",
-            "Minimum wage": "Ranges from ₱341 (US$6.12) daily non-agricultural wage in Ilocos to ₱570 (US$10.23) daily non-agricultural wage in Metro Manila.[197]",
+            "Minimum wage": "Ranges from ₱341 (US$6.12) daily non-agricultural wage in Ilocos to ₱570 (US$10.23) daily non-agricultural wage in Metro Manila.[196]",
             "Annual": "3009.0",
             "Annual.1": "7337.0",
-            "Workweek (hours)[4]": "40[198]",
+            "Workweek (hours)[4]": "40[197]",
             "Hourly": "1.45",
             "Hourly.1": "3.53",
             "Percent of GDP per capita[5]": "94%",
@@ -5898,7 +5898,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Poland",
-            "Minimum wage": "zł 3,600 (US$933) per month, or zł 23.5 (US$5.77) per hour is the minimum wage in Poland.[199][18]",
+            "Minimum wage": "zł 3,600 (US$933) per month, or zł 23.5 (US$5.77) per hour is the minimum wage in Poland.[198][18]",
             "Annual": "11192.0",
             "Annual.1": "22979.0",
             "Workweek (hours)[4]": "40",
@@ -5977,7 +5977,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Portugal",
-            "Minimum wage": "€886 per month (US$828) in 12 payments; €760 per month (US$710) in 14 payments for full-time workers, rural workers, and domestic employees ages 18 and older.[200][37]",
+            "Minimum wage": "€886 per month (US$828) in 12 payments; €760 per month (US$710) in 14 payments for full-time workers, rural workers, and domestic employees ages 18 and older.[199][37]",
             "Annual": "9935.0",
             "Annual.1": "12353.0",
             "Workweek (hours)[4]": "40",
@@ -6083,7 +6083,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Qatar",
-            "Minimum wage": "QR 1,500-1,800 a month in total. QR 1,000 (US$274) base pay per month plus the provision of QR 500 a month (US$137) for accommodation. Add QR 300 a month (US$82.2) for food if those expenses are not provided as part of the contract).[201]",
+            "Minimum wage": "QR 1,500-1,800 a month in total. QR 1,000 (US$274) base pay per month plus the provision of QR 500 a month (US$137) for accommodation. Add QR 300 a month (US$82.2) for food if those expenses are not provided as part of the contract).[200]",
             "Annual": NaN,
             "Annual.1": NaN,
             "Workweek (hours)[4]": "48",
@@ -6143,7 +6143,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Romania",
-            "Minimum wage": "3,000 lei (US$650) per month; else 18.145 lei (US$3.95) per hour for a full-time schedule of 165 hours per month is the minimum wage in Romania.[202]",
+            "Minimum wage": "3,000 lei (US$650) per month; else 18.145 lei (US$3.95) per hour for a full-time schedule of 165 hours per month is the minimum wage in Romania.[201]",
             "Annual": "8654.0",
             "Annual.1": "19048.0",
             "Workweek (hours)[4]": "40",
@@ -6215,7 +6215,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Russia",
-            "Minimum wage": "16,242₽ (US$164) (Federal, in some territories more, for example, 24,284₽ (US$245) in Moscow)[203]",
+            "Minimum wage": "16,242₽ (US$164) (Federal, in some territories more, for example, 24,284₽ (US$245) in Moscow)[202]",
             "Annual": "2646.0",
             "Annual.1": "7834.0",
             "Workweek (hours)[4]": "40",
@@ -6337,7 +6337,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Saudi Arabia",
-            "Minimum wage": "SRls 4,000 (US$1066,66) per month for public sector; does not apply to foreign workers. There are no minimum wage in private sector.[10][212]",
+            "Minimum wage": "SRls 4,000 (US$1066,66) per month for public sector; does not apply to foreign workers. There are no minimum wage in private sector.[10][211]",
             "Annual": "12800.0",
             "Annual.1": "24742.0",
             "Workweek (hours)[4]": "48",
@@ -6386,7 +6386,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Senegal",
-            "Minimum wage": "F.CFA 209.1 (US$0.42) per hour for general workers and F.CFA 182.95 (US$0.37) per hour for agricultural workers.[10][18][213]",
+            "Minimum wage": "F.CFA 209.1 (US$0.42) per hour for general workers and F.CFA 182.95 (US$0.37) per hour for agricultural workers.[10][18][212]",
             "Annual": "686.0",
             "Annual.1": "1617.0",
             "Workweek (hours)[4]": "40",
@@ -6458,7 +6458,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Serbia",
-            "Minimum wage": "DIN 53,915 (460eu or $510) monthly.[214]",
+            "Minimum wage": "DIN 53,915 (460eu or $510) monthly.[213]",
             "Annual": "3610.0",
             "Annual.1": "7291.0",
             "Workweek (hours)[4]": "40",
@@ -6530,7 +6530,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Singapore",
-            "Minimum wage": "None.[10] However, two exceptions: 1) Cleaner jobs to have a minimum wage of S$1,200 (US$860) per month effective July 2019.[221] 2) Security guards to have a minimum wage of S$1,100 ($802) per month effective September 2016.[222]",
+            "Minimum wage": "None.[10] However, two exceptions: 1) Cleaner jobs to have a minimum wage of S$1,200 (US$860) per month effective July 2019.[220] 2) Security guards to have a minimum wage of S$1,100 ($802) per month effective September 2016.[221]",
             "Annual": NaN,
             "Annual.1": NaN,
             "Workweek (hours)[4]": "44",
@@ -6609,7 +6609,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Slovakia",
-            "Minimum wage": "€700 (US$828) per month, or €4.03 (US$4.77) per hour.[18][223]",
+            "Minimum wage": "€700 (US$828) per month, or €4.03 (US$4.77) per hour.[18][222]",
             "Annual": "9914.0",
             "Annual.1": "15241.0",
             "Workweek (hours)[4]": "40",
@@ -6688,7 +6688,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Slovenia",
-            "Minimum wage": "€1203.36 (US$1423) per month.[18][37][224]",
+            "Minimum wage": "€1203.36 (US$1423) per month.[18][37][223]",
             "Annual": "17079.0",
             "Annual.1": "21553.0",
             "Workweek (hours)[4]": "40",
@@ -6729,8 +6729,8 @@
         },
         "list_of_countries_by_alcohol_consumption_per_capita": {
             "Country": "South Africa",
-            "1996[7]": "17.72",
-            "2016[8]": "21.3"
+            "1996[7]": "7.72",
+            "2016[8]": "9.3"
         },
         "list_of_countries_by_birth_rate": {
             "Country/territory": "South Africa",
@@ -6760,7 +6760,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "South Africa",
-            "Minimum wage": "R 23.19 (US$1.34) per hour for all workers, except for Expanded Public Works Programme workers who have a minimum of R 12.75 (US$0.74).[225]",
+            "Minimum wage": "R 23.19 (US$1.34) per hour for all workers, except for Expanded Public Works Programme workers who have a minimum of R 12.75 (US$0.74).[224]",
             "Annual": "3671.0",
             "Annual.1": "10316.0",
             "Workweek (hours)[4]": "45",
@@ -6839,7 +6839,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "South Korea",
-            "Minimum wage": "₩9,620 (US$7.9 as of 2nd February 2023) per hour is the nominal minimum wage in South Korea,[130] although the real effective comparable minimum wage is higher at ₩11,544 (US$9.5 as of 2nd February 2023) per hour due to a mandatory weekly paid holiday for people that work more than 15 hours per week, a law that is absent in other developed countries.[131] The minimum wage law applies equally to foreign, temporary or young workers covering all industries and regions nationwide.",
+            "Minimum wage": "₩9,620 (US$7.9 as of 2nd February 2023) per hour is the nominal minimum wage in South Korea,[129] although the real effective comparable minimum wage is higher at ₩11,544 (US$9.5 as of 2nd February 2023) per hour due to a mandatory weekly paid holiday for people that work more than 15 hours per week, a law that is absent in other developed countries.[130] The minimum wage law applies equally to foreign, temporary or young workers covering all industries and regions nationwide.",
             "Annual": "20990.0",
             "Annual.1": "23922.0",
             "Workweek (hours)[4]": "40",
@@ -6906,7 +6906,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Spain",
-            "Minimum wage": "€1,260 (US$1455) per month in 12 payments, €1,080 (US$1277) per month in 14 payments.[227]",
+            "Minimum wage": "€1,260 (US$1455) per month in 12 payments, €1,080 (US$1277) per month in 14 payments.[226]",
             "Annual": "17457.0",
             "Annual.1": "19946.0",
             "Workweek (hours)[4]": "40",
@@ -7016,7 +7016,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Sudan",
-            "Minimum wage": "LS 425 (US$0.95 as of August 2021) per month.[228] See Minimum wage in Sudan.",
+            "Minimum wage": "LS 425 (US$0.95 as of August 2021) per month.[227] See Minimum wage in Sudan.",
             "Annual": "13.0",
             "Annual.1": "1087.0",
             "Workweek (hours)[4]": "40",
@@ -7235,10 +7235,10 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Switzerland",
-            "Minimum wage": "SFr 20 (US$21.98) per hour in the cantons Jura and Neuchâtel, the rest of the country has no minimum wage.[229] There are a minority of the voluntary General Labour Contracts (GLC, collective labour agreements), reached on a sector-by-sector basis,[230] contain minimum compensation clauses, which provide for compensation ranging from SFr 2,200 to SFr 4,200 (US$2418 to US$4615) per month for unskilled workers and SFr 2,800 to SFr 5,300 (US$3077 to US$5824) per month for skilled employees.[10] On 18 May 2014, Swiss voters rejected a federal initiative (by 76.3%) that would have enforced GLCs for every sector and set the hourly minimum wage at SFr 22 (US$24.18, or PPP-adjusted US$12.55).[231][232]",
+            "Minimum wage": "SFr 20 (US$21.98) per hour in the cantons Jura and Neuchâtel, the rest of the country has no minimum wage.[228] There are a minority of the voluntary General Labour Contracts (GLC, collective labour agreements), reached on a sector-by-sector basis,[229] contain minimum compensation clauses, which provide for compensation ranging from SFr 2,200 to SFr 4,200 (US$2418 to US$4615) per month for unskilled workers and SFr 2,800 to SFr 5,300 (US$3077 to US$5824) per month for skilled employees.[10] On 18 May 2014, Swiss voters rejected a federal initiative (by 76.3%) that would have enforced GLCs for every sector and set the hourly minimum wage at SFr 22 (US$24.18, or PPP-adjusted US$12.55).[230][231]",
             "Annual": NaN,
             "Annual.1": NaN,
-            "Workweek (hours)[4]": "41.7[233][234]",
+            "Workweek (hours)[4]": "41.7[232][233]",
             "Hourly": NaN,
             "Hourly.1": NaN,
             "Percent of GDP per capita[5]": NaN,
@@ -7351,7 +7351,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Taiwan",
-            "Minimum wage": "NT$27,470 (US$853) per month; NT$183 (US$5.7) per hour is the minimum wage in Taiwan.[235]",
+            "Minimum wage": "NT$27,470 (US$853) per month; NT$183 (US$5.7) per hour is the minimum wage in Taiwan.[234]",
             "Annual": "11973.0",
             "Annual.1": "23432.0",
             "Workweek (hours)[4]": "40",
@@ -7394,7 +7394,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Tajikistan",
-            "Minimum wage": "SM 250 (US$31) per month, plus certain government subsidies for workers and their families.[82][236]",
+            "Minimum wage": "SM 250 (US$31) per month, plus certain government subsidies for workers and their families.[82][235]",
             "Annual": "265.0",
             "Annual.1": "1288.0",
             "Workweek (hours)[4]": "40",
@@ -7455,7 +7455,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Thailand",
-            "Minimum wage": "Ranges from ฿328 to ฿354 (US$9.01–US$9.72) per day and up, depending on the cost of living in various provinces; set by provincial tripartite wage committees that sometimes include only employer representatives.[238]",
+            "Minimum wage": "Ranges from ฿328 to ฿354 (US$9.01–US$9.72) per day and up, depending on the cost of living in various provinces; set by provincial tripartite wage committees that sometimes include only employer representatives.[237]",
             "Annual": "3733.0",
             "Annual.1": "9313.0",
             "Workweek (hours)[4]": "48",
@@ -7516,7 +7516,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Trinidad and Tobago",
-            "Minimum wage": "TT$15 (US$355.03) per hour;[240] (US$355) per month",
+            "Minimum wage": "TT$15 (US$355.03) per hour;[239] (US$355) per month",
             "Annual": "4615.0",
             "Annual.1": "5503.0",
             "Workweek (hours)[4]": "40",
@@ -7595,7 +7595,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Turkey",
-            "Minimum wage": "₺13,415 (US$515 per July 2023 exchange rate) gross per month. ₺11,402 (US$438 per July 2023 exchange rate) net per month.[242] Public servants receive minimum 22000 TL per month.",
+            "Minimum wage": "₺13,415 (US$515 per July 2023 exchange rate) gross per month. ₺11,402 (US$438 per July 2023 exchange rate) net per month.[241] Public servants receive minimum 22000 TL per month.",
             "Annual": "18190.0",
             "Annual.1": "103192.0",
             "Workweek (hours)[4]": "40",
@@ -7790,7 +7790,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Ukraine",
-            "Minimum wage": "₴6,700 (US$183.21) per month,  ₴40.46 (US$1.11) per hour,  annual wage US$2,870[18][243]",
+            "Minimum wage": "₴6,700 (US$183.21) per month,  ₴40.46 (US$1.11) per hour,  annual wage US$2,870[18][242]",
             "Annual": "2946.0",
             "Annual.1": "13604.0",
             "Workweek (hours)[4]": "40",
@@ -7918,7 +7918,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "United Kingdom",
-            "Minimum wage": "The minimum wage in the United Kingdom is: £10.42 stg (US$14.27) per hour for those aged 23+ £10.18 (US$13.95) per hour for those aged 21–22  £7.49 (US$10.26) per hour for those aged 18–20  £5.28 (US$7.23) per hour for those aged 16-17, apprentices aged 16 to 18, and those aged 19 or over who are in their first year of apprenticeship.[244] Employees under the age of 16 aren't entitled to the National Minimum Wage.",
+            "Minimum wage": "The minimum wage in the United Kingdom is: £10.42 stg (US$14.27) per hour for those aged 23+ £10.18 (US$13.95) per hour for those aged 21–22  £7.49 (US$10.26) per hour for those aged 18–20  £5.28 (US$7.23) per hour for those aged 16-17, apprentices aged 16 to 18, and those aged 19 or over who are in their first year of apprenticeship.[243] Employees under the age of 16 aren't entitled to the National Minimum Wage.",
             "Annual": "29690.0",
             "Annual.1": "27092.0",
             "Workweek (hours)[4]": "40",
@@ -7990,7 +7990,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Uruguay",
-            "Minimum wage": "$U 21,107 (US$545) per month.[250]",
+            "Minimum wage": "$U 21,107 (US$545) per month.[249]",
             "Annual": "5816.0",
             "Annual.1": "10810.0",
             "Workweek (hours)[4]": "48",
@@ -8051,7 +8051,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Uzbekistan",
-            "Minimum wage": "920,000 soum (US$84) per month.[251]",
+            "Minimum wage": "920,000 soum (US$84) per month.[250]",
             "Annual": "1041.0",
             "Annual.1": "8591.0",
             "Workweek (hours)[4]": "40",
@@ -8112,7 +8112,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Vietnam",
-            "Minimum wage": "Varies by region; Region I: VND 4,420,000 per month; Region II: VND 3,920,000 per month; Region III: VND 3,430,000 per month and Region IV: VND 3,070,000 per month.[256]",
+            "Minimum wage": "Varies by region; Region I: VND 4,420,000 per month; Region II: VND 3,920,000 per month; Region III: VND 3,430,000 per month and Region IV: VND 3,070,000 per month.[255]",
             "Annual": "1591.0",
             "Annual.1": "4089.0",
             "Workweek (hours)[4]": "40",
@@ -8173,7 +8173,7 @@
         },
         "list_of_countries_by_minimum_wage": {
             "Country": "Zambia",
-            "Minimum wage": "Varies by sector; ZK 993.6 (US$81) per month for domestic workers. Shop workers' minimum wage is ZK 1,698.6 with transport, lunch and housing allowances inclusive, and wages increasing according to the grades of employees, with the minimum wage of the highest grade in this category being ZK 3,558.9. In the general workers' category, which includes receptionists and guards among others, the minimum wage for category one workers is ZK 1,698.6, while the highest category is at ZK 3,151.61.[257]",
+            "Minimum wage": "Varies by sector; ZK 993.6 (US$81) per month for domestic workers. Shop workers' minimum wage is ZK 1,698.6 with transport, lunch and housing allowances inclusive, and wages increasing according to the grades of employees, with the minimum wage of the highest grade in this category being ZK 3,558.9. In the general workers' category, which includes receptionists and guards among others, the minimum wage for category one workers is ZK 1,698.6, while the highest category is at ZK 3,151.61.[256]",
             "Annual": "596.0",
             "Annual.1": "3180.0",
             "Workweek (hours)[4]": "48",

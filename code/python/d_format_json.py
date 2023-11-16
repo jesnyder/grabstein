@@ -108,10 +108,11 @@ def format_json():
     bubble = {}
     bubble["datasets"] = a_list
 
+    """
     json_obj = bubble
     sorted_obj = dict(json_obj)
     sorted_obj = sorted(json_obj["datasets"], key="data" : x['r'], reverse=True)
-
+    """
 
 
     # create destination json
