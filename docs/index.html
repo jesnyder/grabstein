@@ -1,6 +1,29 @@
-<div>
+<div style=width:80% height: 300px;>
   <canvas id="myChart"></canvas>
 </div>
+
+
+<div class="myDiv">
+  <h2>References</h2>
+
+
+<ol>
+<li><a href="https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate">https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate</a>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_countries_by_birth_rate">https://en.wikipedia.org/wiki/List_of_countries_by_birth_rate</a>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption_per_capita">https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption_per_capita</a>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_countries_by_number_of_households">https://en.wikipedia.org/wiki/List_of_countries_by_number_of_households</a>
+</li>
+
+
+</ol>
+
+</div>
+
+
+
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="js/bubble.js" type="text/javascript"></script>
@@ -19,17 +42,19 @@ console.log(bubble);
     plugins: {
       title: {
         display: true,
-        text: 'Chart.js Line Chart - Logarithmic'
+        text: 'Suicide Rate Coorelated to % of 1 Member Households'
       }
     },
     scales: {
       x: {
         display: true,
         type: 'logarithmic',
+        labelString: '% of 1 Member Households'
       },
       y: {
         display: true,
         type: 'logarithmic',
+        labelString: 'Suicide Rate'
 
       }
     }

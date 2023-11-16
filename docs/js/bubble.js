@@ -11,7 +11,7 @@ const bubble =
                     "r": "7.5"
                 }
             ],
-            "backgroundColor": "rgb(11, 131, 87)"
+            "backgroundColor": "rgb(20, 39, 188)"
         },
         {
             "label": "Africa | Angola",
@@ -23,7 +23,7 @@ const bubble =
                     "r": "6.4"
                 }
             ],
-            "backgroundColor": "rgb(4, 155, 131)"
+            "backgroundColor": "rgb(12, 246, 164)"
         },
         {
             "label": "Americas | Argentina",
@@ -35,7 +35,7 @@ const bubble =
                     "r": "9.8"
                 }
             ],
-            "backgroundColor": "rgb(10, 205, 98)"
+            "backgroundColor": "rgb(47, 94, 85)"
         },
         {
             "label": "Asia | Armenia",
@@ -47,7 +47,7 @@ const bubble =
                     "r": "5.5"
                 }
             ],
-            "backgroundColor": "rgb(197, 11, 43)"
+            "backgroundColor": "rgb(111, 7, 11)"
         },
         {
             "label": "Oceania | Australia",
@@ -59,7 +59,7 @@ const bubble =
                     "r": "10.6"
                 }
             ],
-            "backgroundColor": "rgb(89, 4, 126)"
+            "backgroundColor": "rgb(39, 8, 91)"
         },
         {
             "label": "Europe | Austria",
@@ -71,7 +71,7 @@ const bubble =
                     "r": "11.6"
                 }
             ],
-            "backgroundColor": "rgb(13, 168, 85)"
+            "backgroundColor": "rgb(23, 73, 51)"
         },
         {
             "label": "Asia | Azerbaijan",
@@ -83,7 +83,7 @@ const bubble =
                     "r": "0.8"
                 }
             ],
-            "backgroundColor": "rgb(162, 22, 10)"
+            "backgroundColor": "rgb(252, 7, 2)"
         },
         {
             "label": "Asia | Bangladesh",
@@ -95,7 +95,7 @@ const bubble =
                     "r": "0.0"
                 }
             ],
-            "backgroundColor": "rgb(180, 1, 5)"
+            "backgroundColor": "rgb(80, 15, 14)"
         },
         {
             "label": "Europe | Belgium",
@@ -107,7 +107,7 @@ const bubble =
                     "r": "12.1"
                 }
             ],
-            "backgroundColor": "rgb(21, 149, 177)"
+            "backgroundColor": "rgb(22, 31, 83)"
         },
         {
             "label": "Americas | Bolivia",
@@ -119,7 +119,7 @@ const bubble =
                     "r": "4.8"
                 }
             ],
-            "backgroundColor": "rgb(36, 189, 133)"
+            "backgroundColor": "rgb(13, 64, 187)"
         },
         {
             "label": "Americas | Brazil",
@@ -131,7 +131,7 @@ const bubble =
                     "r": "7.8"
                 }
             ],
-            "backgroundColor": "rgb(42, 23, 52)"
+            "backgroundColor": "rgb(49, 117, 88)"
         },
         {
             "label": "Europe | Bulgaria",
@@ -143,7 +143,7 @@ const bubble =
                     "r": "12.7"
                 }
             ],
-            "backgroundColor": "rgb(22, 73, 134)"
+            "backgroundColor": "rgb(7, 52, 5)"
         },
         {
             "label": "Africa | Burkina Faso",
@@ -155,7 +155,7 @@ const bubble =
                     "r": "8.2"
                 }
             ],
-            "backgroundColor": "rgb(47, 9, 16)"
+            "backgroundColor": "rgb(40, 148, 182)"
         },
         {
             "label": "Asia | Cambodia",
@@ -167,7 +167,7 @@ const bubble =
                     "r": "6.7"
                 }
             ],
-            "backgroundColor": "rgb(124, 25, 30)"
+            "backgroundColor": "rgb(117, 20, 32)"
         },
         {
             "label": "Americas | Canada",
@@ -179,7 +179,7 @@ const bubble =
                     "r": "8.9"
                 }
             ],
-            "backgroundColor": "rgb(58, 18, 193)"
+            "backgroundColor": "rgb(26, 3, 67)"
         },
         {
             "label": "Africa | Chad",
@@ -191,7 +191,7 @@ const bubble =
                     "r": "1.5"
                 }
             ],
-            "backgroundColor": "rgb(29, 107, 117)"
+            "backgroundColor": "rgb(28, 125, 155)"
         },
         {
             "label": "Americas | Chile",
@@ -203,7 +203,7 @@ const bubble =
                     "r": "9.3"
                 }
             ],
-            "backgroundColor": "rgb(54, 170, 151)"
+            "backgroundColor": "rgb(33, 99, 130)"
         },
         {
             "label": "Asia | China",
@@ -215,7 +215,7 @@ const bubble =
                     "r": "7.2"
                 }
             ],
-            "backgroundColor": "rgb(92, 18, 15)"
+            "backgroundColor": "rgb(107, 0, 9)"
         },
         {
             "label": "Americas | Colombia",
@@ -227,7 +227,7 @@ const bubble =
                     "r": "5.8"
                 }
             ],
-            "backgroundColor": "rgb(49, 184, 60)"
+            "backgroundColor": "rgb(31, 122, 140)"
         },
         {
             "label": "Americas | Costa Rica",
@@ -239,7 +239,7 @@ const bubble =
                     "r": "4.8"
                 }
             ],
-            "backgroundColor": "rgb(47, 75, 47)"
+            "backgroundColor": "rgb(40, 221, 69)"
         },
         {
             "label": "Europe | Croatia",
@@ -251,7 +251,7 @@ const bubble =
                     "r": "8.9"
                 }
             ],
-            "backgroundColor": "rgb(8, 100, 179)"
+            "backgroundColor": "rgb(3, 146, 168)"
         },
         {
             "label": "Asia | Cyprus",
@@ -263,7 +263,7 @@ const bubble =
                     "r": "10.8"
                 }
             ],
-            "backgroundColor": "rgb(112, 21, 28)"
+            "backgroundColor": "rgb(97, 5, 17)"
         },
         {
             "label": "Europe | Czech Republic",
@@ -275,7 +275,7 @@ const bubble =
                     "r": "14.4"
                 }
             ],
-            "backgroundColor": "rgb(10, 163, 141)"
+            "backgroundColor": "rgb(19, 196, 185)"
         },
         {
             "label": "Africa | Egypt",
@@ -287,7 +287,7 @@ const bubble =
                     "r": "0.4"
                 }
             ],
-            "backgroundColor": "rgb(30, 171, 122)"
+            "backgroundColor": "rgb(60, 111, 153)"
         },
         {
             "label": "Americas | El Salvador",
@@ -299,7 +299,7 @@ const bubble =
                     "r": "3.7"
                 }
             ],
-            "backgroundColor": "rgb(62, 164, 120)"
+            "backgroundColor": "rgb(2, 119, 164)"
         },
         {
             "label": "Europe | Estonia",
@@ -311,7 +311,7 @@ const bubble =
                     "r": 3
                 }
             ],
-            "backgroundColor": "rgb(7, 105, 127)"
+            "backgroundColor": "rgb(22, 99, 185)"
         },
         {
             "label": "Africa | Ethiopia",
@@ -323,7 +323,7 @@ const bubble =
                     "r": "2.8"
                 }
             ],
-            "backgroundColor": "rgb(8, 166, 176)"
+            "backgroundColor": "rgb(36, 137, 86)"
         },
         {
             "label": "Europe | Finland",
@@ -335,7 +335,7 @@ const bubble =
                     "r": "10.7"
                 }
             ],
-            "backgroundColor": "rgb(16, 124, 177)"
+            "backgroundColor": "rgb(16, 114, 90)"
         },
         {
             "label": "Europe | France",
@@ -347,7 +347,7 @@ const bubble =
                     "r": "12.6"
                 }
             ],
-            "backgroundColor": "rgb(23, 36, 30)"
+            "backgroundColor": "rgb(22, 161, 159)"
         },
         {
             "label": "Africa | Gabon",
@@ -359,7 +359,7 @@ const bubble =
                     "r": "11.5"
                 }
             ],
-            "backgroundColor": "rgb(38, 24, 53)"
+            "backgroundColor": "rgb(55, 233, 41)"
         },
         {
             "label": "Asia | Georgia",
@@ -371,7 +371,7 @@ const bubble =
                     "r": "9.8"
                 }
             ],
-            "backgroundColor": "rgb(65, 6, 15)"
+            "backgroundColor": "rgb(10, 4, 29)"
         },
         {
             "label": "Europe | Germany",
@@ -383,7 +383,7 @@ const bubble =
                     "r": "13.4"
                 }
             ],
-            "backgroundColor": "rgb(17, 57, 167)"
+            "backgroundColor": "rgb(18, 22, 118)"
         },
         {
             "label": "Africa | Ghana",
@@ -395,7 +395,7 @@ const bubble =
                     "r": "2.7"
                 }
             ],
-            "backgroundColor": "rgb(54, 238, 178)"
+            "backgroundColor": "rgb(18, 232, 83)"
         },
         {
             "label": "Europe | Greece",
@@ -407,7 +407,7 @@ const bubble =
                     "r": "10.4"
                 }
             ],
-            "backgroundColor": "rgb(1, 160, 52)"
+            "backgroundColor": "rgb(16, 35, 35)"
         },
         {
             "label": "Americas | Guatemala",
@@ -419,7 +419,7 @@ const bubble =
                     "r": "2.4"
                 }
             ],
-            "backgroundColor": "rgb(19, 26, 50)"
+            "backgroundColor": "rgb(44, 31, 74)"
         },
         {
             "label": "Americas | Guyana",
@@ -431,7 +431,7 @@ const bubble =
                     "r": "6.3"
                 }
             ],
-            "backgroundColor": "rgb(40, 96, 191)"
+            "backgroundColor": "rgb(3, 99, 4)"
         },
         {
             "label": "Americas | Honduras",
@@ -443,7 +443,7 @@ const bubble =
                     "r": "4.0"
                 }
             ],
-            "backgroundColor": "rgb(44, 23, 79)"
+            "backgroundColor": "rgb(55, 153, 160)"
         },
         {
             "label": "Europe | Hungary",
@@ -455,7 +455,7 @@ const bubble =
                     "r": "11.4"
                 }
             ],
-            "backgroundColor": "rgb(23, 172, 151)"
+            "backgroundColor": "rgb(0, 80, 110)"
         },
         {
             "label": "Asia | India",
@@ -467,7 +467,7 @@ const bubble =
                     "r": "5.7"
                 }
             ],
-            "backgroundColor": "rgb(183, 15, 18)"
+            "backgroundColor": "rgb(185, 15, 17)"
         },
         {
             "label": "Asia | Indonesia",
@@ -479,7 +479,7 @@ const bubble =
                     "r": "0.8"
                 }
             ],
-            "backgroundColor": "rgb(9, 13, 16)"
+            "backgroundColor": "rgb(199, 9, 8)"
         },
         {
             "label": "Asia | Iran",
@@ -491,7 +491,7 @@ const bubble =
                     "r": "1.0"
                 }
             ],
-            "backgroundColor": "rgb(181, 8, 16)"
+            "backgroundColor": "rgb(144, 1, 41)"
         },
         {
             "label": "Asia | Iraq",
@@ -503,7 +503,7 @@ const bubble =
                     "r": "0.4"
                 }
             ],
-            "backgroundColor": "rgb(239, 0, 44)"
+            "backgroundColor": "rgb(82, 17, 19)"
         },
         {
             "label": "Europe | Ireland",
@@ -515,7 +515,7 @@ const bubble =
                     "r": "13.0"
                 }
             ],
-            "backgroundColor": "rgb(17, 21, 139)"
+            "backgroundColor": "rgb(13, 141, 133)"
         },
         {
             "label": "Asia | Israel",
@@ -527,7 +527,7 @@ const bubble =
                     "r": "3.8"
                 }
             ],
-            "backgroundColor": "rgb(196, 13, 10)"
+            "backgroundColor": "rgb(33, 2, 46)"
         },
         {
             "label": "Europe | Italy",
@@ -539,7 +539,7 @@ const bubble =
                     "r": "7.5"
                 }
             ],
-            "backgroundColor": "rgb(9, 45, 193)"
+            "backgroundColor": "rgb(13, 134, 130)"
         },
         {
             "label": "Africa | Ivory Coast",
@@ -551,7 +551,7 @@ const bubble =
                     "r": "8.4"
                 }
             ],
-            "backgroundColor": "rgb(25, 147, 61)"
+            "backgroundColor": "rgb(45, 74, 185)"
         },
         {
             "label": "Asia | Japan",
@@ -563,7 +563,7 @@ const bubble =
                     "r": "8.0"
                 }
             ],
-            "backgroundColor": "rgb(179, 15, 0)"
+            "backgroundColor": "rgb(201, 12, 24)"
         },
         {
             "label": "Asia | Kazakhstan",
@@ -575,7 +575,7 @@ const bubble =
                     "r": "7.7"
                 }
             ],
-            "backgroundColor": "rgb(9, 18, 21)"
+            "backgroundColor": "rgb(95, 5, 28)"
         },
         {
             "label": "Africa | Kenya",
@@ -587,7 +587,7 @@ const bubble =
                     "r": "3.4"
                 }
             ],
-            "backgroundColor": "rgb(51, 18, 197)"
+            "backgroundColor": "rgb(17, 32, 167)"
         },
         {
             "label": "Asia | Kyrgyzstan",
@@ -599,7 +599,7 @@ const bubble =
                     "r": "6.2"
                 }
             ],
-            "backgroundColor": "rgb(156, 2, 17)"
+            "backgroundColor": "rgb(221, 17, 33)"
         },
         {
             "label": "Asia | Laos",
@@ -611,7 +611,7 @@ const bubble =
                     "r": "10.4"
                 }
             ],
-            "backgroundColor": "rgb(188, 6, 29)"
+            "backgroundColor": "rgb(110, 19, 41)"
         },
         {
             "label": "Europe | Latvia",
@@ -623,7 +623,7 @@ const bubble =
                     "r": "12.9"
                 }
             ],
-            "backgroundColor": "rgb(23, 22, 102)"
+            "backgroundColor": "rgb(3, 45, 85)"
         },
         {
             "label": "Europe | Lithuania",
@@ -635,7 +635,7 @@ const bubble =
                     "r": "15.0"
                 }
             ],
-            "backgroundColor": "rgb(19, 133, 135)"
+            "backgroundColor": "rgb(15, 2, 87)"
         },
         {
             "label": "Europe | Luxembourg",
@@ -647,7 +647,7 @@ const bubble =
                     "r": "13.0"
                 }
             ],
-            "backgroundColor": "rgb(1, 18, 33)"
+            "backgroundColor": "rgb(1, 110, 16)"
         },
         {
             "label": "Africa | Madagascar",
@@ -659,7 +659,7 @@ const bubble =
                     "r": "1.9"
                 }
             ],
-            "backgroundColor": "rgb(16, 202, 28)"
+            "backgroundColor": "rgb(25, 247, 170)"
         },
         {
             "label": "Asia | Malaysia",
@@ -671,7 +671,7 @@ const bubble =
                     "r": "0.9"
                 }
             ],
-            "backgroundColor": "rgb(19, 13, 18)"
+            "backgroundColor": "rgb(4, 11, 2)"
         },
         {
             "label": "Asia | Maldives",
@@ -683,7 +683,7 @@ const bubble =
                     "r": "2.7"
                 }
             ],
-            "backgroundColor": "rgb(145, 7, 50)"
+            "backgroundColor": "rgb(48, 11, 17)"
         },
         {
             "label": "Europe | Malta",
@@ -695,7 +695,7 @@ const bubble =
                     "r": "8.1"
                 }
             ],
-            "backgroundColor": "rgb(22, 174, 104)"
+            "backgroundColor": "rgb(1, 169, 161)"
         },
         {
             "label": "Americas | Mexico",
@@ -707,7 +707,7 @@ const bubble =
                     "r": "6.5"
                 }
             ],
-            "backgroundColor": "rgb(44, 74, 198)"
+            "backgroundColor": "rgb(12, 246, 57)"
         },
         {
             "label": "Europe | Moldova",
@@ -719,7 +719,7 @@ const bubble =
                     "r": "15.2"
                 }
             ],
-            "backgroundColor": "rgb(1, 58, 150)"
+            "backgroundColor": "rgb(16, 178, 149)"
         },
         {
             "label": "Asia | Mongolia",
@@ -731,7 +731,7 @@ const bubble =
                     "r": "7.4"
                 }
             ],
-            "backgroundColor": "rgb(249, 23, 25)"
+            "backgroundColor": "rgb(0, 0, 22)"
         },
         {
             "label": "Europe | Montenegro",
@@ -743,7 +743,7 @@ const bubble =
                     "r": "8.0"
                 }
             ],
-            "backgroundColor": "rgb(12, 18, 153)"
+            "backgroundColor": "rgb(4, 65, 16)"
         },
         {
             "label": "Asia | Myanmar",
@@ -755,7 +755,7 @@ const bubble =
                     "r": "4.8"
                 }
             ],
-            "backgroundColor": "rgb(84, 1, 45)"
+            "backgroundColor": "rgb(188, 5, 27)"
         },
         {
             "label": "Asia | Nepal",
@@ -767,7 +767,7 @@ const bubble =
                     "r": "2.0"
                 }
             ],
-            "backgroundColor": "rgb(193, 4, 5)"
+            "backgroundColor": "rgb(253, 19, 17)"
         },
         {
             "label": "Europe | Netherlands",
@@ -779,7 +779,7 @@ const bubble =
                     "r": "8.7"
                 }
             ],
-            "backgroundColor": "rgb(9, 75, 159)"
+            "backgroundColor": "rgb(4, 188, 11)"
         },
         {
             "label": "Oceania | New Zealand",
@@ -791,7 +791,7 @@ const bubble =
                     "r": "10.7"
                 }
             ],
-            "backgroundColor": "rgb(184, 16, 48)"
+            "backgroundColor": "rgb(136, 19, 19)"
         },
         {
             "label": "Americas | Nicaragua",
@@ -803,7 +803,7 @@ const bubble =
                     "r": "5.2"
                 }
             ],
-            "backgroundColor": "rgb(63, 112, 146)"
+            "backgroundColor": "rgb(59, 48, 144)"
         },
         {
             "label": "Africa | Nigeria",
@@ -815,7 +815,7 @@ const bubble =
                     "r": "13.4"
                 }
             ],
-            "backgroundColor": "rgb(16, 146, 32)"
+            "backgroundColor": "rgb(5, 16, 5)"
         },
         {
             "label": "Europe | Norway",
@@ -827,7 +827,7 @@ const bubble =
                     "r": "7.5"
                 }
             ],
-            "backgroundColor": "rgb(17, 43, 74)"
+            "backgroundColor": "rgb(9, 45, 70)"
         },
         {
             "label": "Asia | Pakistan",
@@ -839,7 +839,7 @@ const bubble =
                     "r": "0.3"
                 }
             ],
-            "backgroundColor": "rgb(215, 7, 6)"
+            "backgroundColor": "rgb(23, 10, 31)"
         },
         {
             "label": "Americas | Panama",
@@ -851,7 +851,7 @@ const bubble =
                     "r": "7.9"
                 }
             ],
-            "backgroundColor": "rgb(13, 62, 14)"
+            "backgroundColor": "rgb(52, 24, 25)"
         },
         {
             "label": "Americas | Peru",
@@ -863,7 +863,7 @@ const bubble =
                     "r": "6.3"
                 }
             ],
-            "backgroundColor": "rgb(2, 85, 202)"
+            "backgroundColor": "rgb(55, 0, 3)"
         },
         {
             "label": "Asia | Philippines",
@@ -875,7 +875,7 @@ const bubble =
                     "r": "6.6"
                 }
             ],
-            "backgroundColor": "rgb(36, 17, 17)"
+            "backgroundColor": "rgb(162, 20, 39)"
         },
         {
             "label": "Europe | Poland",
@@ -887,7 +887,7 @@ const bubble =
                     "r": "11.6"
                 }
             ],
-            "backgroundColor": "rgb(1, 172, 124)"
+            "backgroundColor": "rgb(4, 83, 55)"
         },
         {
             "label": "Europe | Portugal",
@@ -899,7 +899,7 @@ const bubble =
                     "r": "12.3"
                 }
             ],
-            "backgroundColor": "rgb(11, 10, 36)"
+            "backgroundColor": "rgb(1, 162, 144)"
         },
         {
             "label": "Europe | Romania",
@@ -911,7 +911,7 @@ const bubble =
                     "r": "12.6"
                 }
             ],
-            "backgroundColor": "rgb(15, 19, 157)"
+            "backgroundColor": "rgb(6, 57, 202)"
         },
         {
             "label": "Europe | Russia",
@@ -923,7 +923,7 @@ const bubble =
                     "r": "11.7"
                 }
             ],
-            "backgroundColor": "rgb(24, 45, 147)"
+            "backgroundColor": "rgb(5, 127, 201)"
         },
         {
             "label": "Africa | Rwanda",
@@ -935,7 +935,7 @@ const bubble =
                     "r": "9.0"
                 }
             ],
-            "backgroundColor": "rgb(12, 139, 28)"
+            "backgroundColor": "rgb(41, 40, 86)"
         },
         {
             "label": "Africa | Senegal",
@@ -947,7 +947,7 @@ const bubble =
                     "r": "0.7"
                 }
             ],
-            "backgroundColor": "rgb(41, 231, 173)"
+            "backgroundColor": "rgb(15, 41, 79)"
         },
         {
             "label": "Europe | Serbia",
@@ -959,7 +959,7 @@ const bubble =
                     "r": "11.1"
                 }
             ],
-            "backgroundColor": "rgb(17, 137, 127)"
+            "backgroundColor": "rgb(10, 191, 18)"
         },
         {
             "label": "Asia | Singapore",
@@ -971,7 +971,7 @@ const bubble =
                     "r": "2.5"
                 }
             ],
-            "backgroundColor": "rgb(192, 8, 42)"
+            "backgroundColor": "rgb(44, 19, 16)"
         },
         {
             "label": "Europe | Slovakia",
@@ -983,7 +983,7 @@ const bubble =
                     "r": "11.5"
                 }
             ],
-            "backgroundColor": "rgb(7, 183, 17)"
+            "backgroundColor": "rgb(4, 90, 69)"
         },
         {
             "label": "Europe | Slovenia",
@@ -995,7 +995,7 @@ const bubble =
                     "r": "12.6"
                 }
             ],
-            "backgroundColor": "rgb(17, 132, 79)"
+            "backgroundColor": "rgb(1, 8, 189)"
         },
         {
             "label": "Africa | South Africa",
@@ -1007,7 +1007,7 @@ const bubble =
                     "r": "21.3"
                 }
             ],
-            "backgroundColor": "rgb(53, 206, 139)"
+            "backgroundColor": "rgb(56, 102, 68)"
         },
         {
             "label": "Europe | Spain",
@@ -1019,7 +1019,7 @@ const bubble =
                     "r": "10.0"
                 }
             ],
-            "backgroundColor": "rgb(24, 170, 2)"
+            "backgroundColor": "rgb(19, 193, 189)"
         },
         {
             "label": "Africa | Sudan",
@@ -1031,7 +1031,7 @@ const bubble =
                     "r": "0.5"
                 }
             ],
-            "backgroundColor": "rgb(9, 15, 54)"
+            "backgroundColor": "rgb(27, 153, 82)"
         },
         {
             "label": "Americas | Suriname",
@@ -1043,7 +1043,7 @@ const bubble =
                     "r": "5.1"
                 }
             ],
-            "backgroundColor": "rgb(34, 160, 55)"
+            "backgroundColor": "rgb(32, 58, 127)"
         },
         {
             "label": "Europe | Sweden",
@@ -1055,7 +1055,7 @@ const bubble =
                     "r": "9.2"
                 }
             ],
-            "backgroundColor": "rgb(8, 84, 139)"
+            "backgroundColor": "rgb(10, 134, 160)"
         },
         {
             "label": "Europe | Switzerland",
@@ -1067,7 +1067,7 @@ const bubble =
                     "r": "11.5"
                 }
             ],
-            "backgroundColor": "rgb(3, 108, 50)"
+            "backgroundColor": "rgb(18, 148, 153)"
         },
         {
             "label": "Asia | Tajikistan",
@@ -1079,7 +1079,7 @@ const bubble =
                     "r": "3.3"
                 }
             ],
-            "backgroundColor": "rgb(46, 20, 50)"
+            "backgroundColor": "rgb(184, 24, 31)"
         },
         {
             "label": "Asia | Thailand",
@@ -1091,7 +1091,7 @@ const bubble =
                     "r": "8.3"
                 }
             ],
-            "backgroundColor": "rgb(239, 13, 22)"
+            "backgroundColor": "rgb(97, 18, 49)"
         },
         {
             "label": "Americas | Trinidad and Tobago",
@@ -1103,7 +1103,7 @@ const bubble =
                     "r": "8.4"
                 }
             ],
-            "backgroundColor": "rgb(55, 89, 159)"
+            "backgroundColor": "rgb(31, 2, 150)"
         },
         {
             "label": "Asia | Turkey",
@@ -1115,7 +1115,7 @@ const bubble =
                     "r": "2.0"
                 }
             ],
-            "backgroundColor": "rgb(0, 22, 43)"
+            "backgroundColor": "rgb(43, 7, 21)"
         },
         {
             "label": "Africa | Uganda",
@@ -1127,7 +1127,7 @@ const bubble =
                     "r": "9.5"
                 }
             ],
-            "backgroundColor": "rgb(23, 28, 10)"
+            "backgroundColor": "rgb(25, 216, 159)"
         },
         {
             "label": "Europe | Ukraine",
@@ -1139,7 +1139,7 @@ const bubble =
                     "r": "8.6"
                 }
             ],
-            "backgroundColor": "rgb(11, 144, 196)"
+            "backgroundColor": "rgb(22, 87, 179)"
         },
         {
             "label": "Europe | United Kingdom",
@@ -1151,7 +1151,7 @@ const bubble =
                     "r": "11.4"
                 }
             ],
-            "backgroundColor": "rgb(0, 94, 79)"
+            "backgroundColor": "rgb(0, 154, 114)"
         },
         {
             "label": "Americas | Uruguay",
@@ -1163,7 +1163,7 @@ const bubble =
                     "r": "10.8"
                 }
             ],
-            "backgroundColor": "rgb(31, 146, 29)"
+            "backgroundColor": "rgb(2, 173, 131)"
         },
         {
             "label": "Asia | Uzbekistan",
@@ -1175,7 +1175,7 @@ const bubble =
                     "r": "2.7"
                 }
             ],
-            "backgroundColor": "rgb(0, 23, 17)"
+            "backgroundColor": "rgb(145, 21, 17)"
         },
         {
             "label": "Asia | Vietnam",
@@ -1187,7 +1187,7 @@ const bubble =
                     "r": "8.3"
                 }
             ],
-            "backgroundColor": "rgb(154, 25, 40)"
+            "backgroundColor": "rgb(210, 15, 37)"
         },
         {
             "label": "Africa | Zambia",
@@ -1199,7 +1199,7 @@ const bubble =
                     "r": "4.8"
                 }
             ],
-            "backgroundColor": "rgb(37, 131, 160)"
+            "backgroundColor": "rgb(46, 244, 8)"
         }
     ]
 };
