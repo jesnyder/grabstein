@@ -16,7 +16,7 @@ def a_main():
     # tasks for program to run
     # 1 scrape information from wikipedia
     # 2 coregister the information
-    tasks = [1, 2, 3]
+    tasks = [2]
 
     # scrape information from wikipedia
     if 1 in tasks: scrape_wiki()

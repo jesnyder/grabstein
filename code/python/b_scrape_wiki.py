@@ -53,6 +53,9 @@ def scrape_wiki():
                     if " *" in country_name:
                         country_name = country_name.replace(" *", "")
 
+                    if "\"" in country_name:
+                        country_name = country_name.replace("\"", "")
+
 
                     df.loc[i, name] = country_name
 

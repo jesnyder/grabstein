@@ -21,6 +21,7 @@ def format_json():
     data = json.load(f)
     f.close()
 
+
     print(data["Albania"])
 
 
